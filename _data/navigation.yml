@@ -12,3 +12,13 @@
 - title: "Contact"
   url: "/contact/"
   side: left
+
+- title: "About"
+  side: left
+  dropdown:
+  - title: "Who We Are"
+    url: "/english/who-we-are/"
+  - title: "Our Vision"
+    url: "/english/our-vision/"
+  - title: "Mission Statement"
+    url: "/english/mission-statement/"
