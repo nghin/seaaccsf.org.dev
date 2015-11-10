@@ -1,5 +1,5 @@
 <ul class="side-nav" style="padding-top: 10px;">
-      <li><a href="/english/who-we-are/">Who We Are</a><p style="font-weight: normal;">The Southeast Asian Arts & Culture Coalition of San Francisco</p></li>
-      <li><a href="/english/our-vision/">Our Vision</a><p style="font-weight: normal;">SEAACC's Vision: Preserve, Promote, and Practice</p></li>
-      <li><a href="/english/mission-statement/">Mission Statement</a><p style="font-weight: normal;">To advance the visibility and vitality of each Southeast Asian culture</p></li>
+      <li><a href="{{ site.projectname }}/english/who-we-are/">Who We Are</a><p style="font-weight: normal;">The Southeast Asian Arts & Culture Coalition of San Francisco</p></li>
+      <li><a href="{{ site.projectname }}/english/our-vision/">Our Vision</a><p style="font-weight: normal;">SEAACC's Vision: Preserve, Promote, and Practice</p></li>
+      <li><a href="{{ site.projectname }}/english/mission-statement/">Mission Statement</a><p style="font-weight: normal;">To advance the visibility and vitality of each Southeast Asian culture</p></li>
 </ul>
