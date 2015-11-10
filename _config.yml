@@ -16,7 +16,7 @@ slogan: "To Trust In The One God Has Sent (John 6:29)"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Know with certainty your salvation. To please and bear fruit to God. Learn how to walk by faith. Rest for your soul. Peace with God. Abundant life."
+description: "The Southeast Asian Arts & Culture Coalition of San Francisco. The coalition was started to help address a need in the Tenderloin community for more cultural awareness."
 
 # Main author of the website
 # See > authors.yml
@@ -31,7 +31,7 @@ projectname: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/nghin/vacsf.org/edit/gh-pages
+improve_content: https://github.com/nghin/seaaccsf.org/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.

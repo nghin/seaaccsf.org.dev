@@ -7,18 +7,21 @@
 layout: frontpage
 header:
   image_fullwidth: seaaccsf-home-eng-banner.jpg
-widget1:
-  title: "About VACSF"
-  url: '/info/'
-  text: 'VACSF, <font face="Open Sans"><i>Hội Thánh Tin Lành Việt Nam</i></font>, in San Francisco, is a congregation of believers in Christ from all walks of life who assembles every Sunday to celebrate everlasting life afforded them through the Son of God who came to save the world. Please continue reading for contact, schedules, and other information.'
-widget2:
-  title: "Bible Study"
-  url: '/bible-topics/'
-  text: 'Studies of various common topics, especially those that tend to be misunderstood and hence misapplied. Don&#39;t accept anything even from the best of teachers as Scriptures, but be like the Bereans to check whatever you hear or read. Check your own interpretation of a passage against all foundational truths you can possibly know, and you will know beyond any doubt its true meaning. In this section you will find the following studies:<br/>1. Galatians<br/>2. Romans<br/>3. The Parables of Jesus, and<br />4. Meditations (thoughts on various topics), and many topics to follow.'
 widget3:
-  title: "Church Events"
-  url: '/blog/'
-  text: 'This section documents some special events in the life of our church. Baptism, picnic, camping, retreats, Vacation Bible School, and many others. But like many things that can be captured on camera, they only show superficially the lives of the individuals; their struggles, the unique events in their lives that God uses to build their relationship with Him remain unpsoken. But perhaps these documentaries may serve as landmarks for them in their walk with God.'
+  title: "MISSION STATEMENT"
+  url: '/mission-statement/'
+  text: "SEAACC’s mission is to advance the visibility and vitality of each Southeast Asian culture through various educational, social, and cultural activities with an aim to strengthen relationships between Southeast Asian communities in the San Francisco Bay Area."
+widget2:
+  title: "OUR VISION"
+  url: '/our-vision/'
+  text: 'SEAACC’s vision stems from the 3 P’s:<br /> 
+  <strong>Preserve</strong> – Embrace and cultivate the historical impact that arts and culture has provided within the Southeast Asian community.<br />
+  <strong>Promote</strong> – We believe that cultural advancement and ethnic identity comes from an awareness of how one’s roots play a significant role in community development.<br /> 
+  <strong>Practice</strong> – Education and theory is useless without application. Different cultural and social activities are held in the San Francisco Bay Area so that anyone and everyone can be involved and engaged within the community.'
+widget1:
+  title: "WHO WE ARE"
+  url: '/who-we-are/'
+  text: 'The Southeast Asian Arts & Culture Coalition of San Francisco was founded in 2011 by various ethnic interest groups across the San Francisco Bay Area. We saw a lack of cultural promotion and preservation in the Southeast Asian community, and knew that there had to be a change. The coalition was started to help address a need in the Tenderloin community for more cultural awareness.'
 permalink: /index.html
 ---
 
