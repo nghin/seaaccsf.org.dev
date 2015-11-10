@@ -24,7 +24,7 @@ author: nghin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://nghin.github.io/seaacc-sf.org'
+url: 'http://nghin.github.io/seaaccsf.org'
 baseurl: ''
 # projectname /vacsf.org is needed if nghin.github.io is accessed directly
 projectname: ''
