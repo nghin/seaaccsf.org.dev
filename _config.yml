@@ -26,8 +26,8 @@ author: nghin
 #
 url: 'http://nghin.github.io/seaaccsf.org'
 baseurl: ''
-# projectname /vacsf.org is needed if nghin.github.io is accessed directly
-projectname: ''
+# projectname /seaaccsf.org is needed if nghin.github.io is accessed directly
+projectname: '/seaaccsf.org'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
