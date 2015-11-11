@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "The Whole Bible is About Jesus!"
+title: "Southeast Asian Arts & Culture Coalition!"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "To Trust In The One God Has Sent (John 6:29)"
+slogan: "Preserve - Promote - Practice"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -202,7 +202,7 @@ og_description:                     "Know with certainty your salvation. To plea
 #
 # used in _includes/comments
 
-disqus_shortname: vacsf
+disqus_shortname: seaacc-sf
 
 
 #      _____
