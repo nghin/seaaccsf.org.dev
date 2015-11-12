@@ -13,6 +13,17 @@ categories:
 
 <img width="424" src="{{ site.urlimg }}/seaacc-logo.png">
 
+### Updated information after the festival
+<table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
+<tbody>
+<tr style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<td align="center" style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<p style="text-align: center;"><iframe style="border:1px solid #cccccc" src="https://www.youtube.com/embed/GBWYSpuGVtE" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 On September 26th, 2015, we invite you to attend the fifth Southeast Asian Arts & Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin. We will have representatives from the Burmese, Cambodian, Laotian, Thai, and Vietnamese communities, as well as the collaboration of the SF Wushu Team participating again. Come celebrate the Mid-Autumn Harvest Festival with us and learn more about the Southeast Asian cultures!
 
 For more information, please contact:

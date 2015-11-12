@@ -36,6 +36,6 @@ The mission of SOMArts is to promote and nurture art on the community level and 
 
 <img width="100%" src="http://74.220.215.61/~seaaccsf/galleries/images/2013/MAHF_poster_web.jpg">
 
-{% include next-previous-post-in-category %}
-
 </div>
+
+{% include next-previous-post-in-category %}
