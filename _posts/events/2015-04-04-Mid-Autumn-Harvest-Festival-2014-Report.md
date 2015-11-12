@@ -44,7 +44,7 @@ Don't miss out on our next Mid-Autumn Harvest Festival, an event filled with ric
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 <iframe style="border:1px solid #cccccc" width="100%" height="1400" src="http://74.220.215.61/~seaaccsf/galleries/index.php/photo-galleries/2-mid-autumn-festival-report-2014" frameborder="0" allowfullscreen=""></iframe></div>
 
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>

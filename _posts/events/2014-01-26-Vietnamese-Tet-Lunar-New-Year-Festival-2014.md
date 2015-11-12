@@ -24,7 +24,7 @@ In a traditional sense, the festival is a time to honor ancestors and deities, a
 
 The event is one of the largest ethnic street festivals held each year in the San Francisco Bay Area. With so many participants from all over the bay area, a four-block area is designated for children and adult to walk through and participate with different activities and food vendors. Cultural performances are held all day to entertain those who want to enjoy music and arts with their friends and family. There are various fun games and activities for children to enjoy and learn about the Lunar New Year.
 
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>

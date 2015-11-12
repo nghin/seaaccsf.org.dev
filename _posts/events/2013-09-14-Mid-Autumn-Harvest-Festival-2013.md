@@ -35,7 +35,7 @@ The 3rd Annual Mid-Autumn Harvest Festival is supported by the SOMArts Cultural 
 The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events and exhibitions, please visit www.somarts.org.
 
 <img width="100%" src="http://74.220.215.61/~seaaccsf/galleries/images/2013/MAHF_poster_web.jpg">
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>

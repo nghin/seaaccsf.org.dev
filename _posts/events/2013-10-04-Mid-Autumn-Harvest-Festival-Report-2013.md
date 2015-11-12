@@ -23,7 +23,7 @@ These groups comprise of numerous performing arts group from all across the Bay 
 <iframe style="border:1px solid #cccccc" width="100%" height="1400" src="http://74.220.215.61/~seaaccsf/galleries/index.php/photo-galleries/3-mid-autumn-festival-report-2013" frameborder="0" allowfullscreen=""></iframe></div>
 
 <p>&nbsp;</p>
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>

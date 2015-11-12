@@ -52,7 +52,7 @@ For more information on the Cultural Showcase inside the Asian Art Museum, pleas
 
 <span style="font-style: italic; color: #888888;"><sup>1</sup>Notes: Social media kit, Asian Heritage Street Celebration website – http://asianfairsf.com/media/ahsc-social-media-kit/</span>
 
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>
