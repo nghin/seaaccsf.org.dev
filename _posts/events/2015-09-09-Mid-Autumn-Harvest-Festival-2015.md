@@ -22,7 +22,7 @@ For more information, please contact:
 - or contact@seaacc-sf.org
 
 <img width="100%" src="http://74.220.215.61/~seaaccsf/en/images/2015/MAHF/Poster_web.jpg">
-<div class="small-12" style="padding: 0px; border-bottom: none;">
+
 {% include next-previous-post-in-category %}
-</div>
+
 </div>

@@ -21,7 +21,7 @@ Explore the museum for free as a part of this annual program held during the Asi
 
 
 <img style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;" width="100%" src="http://74.220.215.61/~seaaccsf/en/images/2015/SEAACC-Street-Celebration-2015.jpg">
-<div class="small-12" style="padding: 0px; border-bottom: none;">
-    {% include next-previous-post-in-category %}
-</div>
+
+{% include next-previous-post-in-category %}
+
 </div>
