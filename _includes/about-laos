@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/laos/who-we-are/"><font face="Alice_5" size="5">xtgmlrt,Hk</font></a><p style="font-weight: normal;">Who We Are</p></li>
+      <li><a href="{{ site.projectname }}/laos/our-vision/"><font face="Alice_5" size="5">;ylapmalo%0v’r;dgIqk</font></a><p style="font-weight: normal;">Our Vision</p></li>
+      <li><a href="{{ site.projectname }}/laos/mission-statement/"><font face="Alice_5" size="5">4c]’rk]tdy9</font></a><p style="font-weight: normal;">Mission Statement</p></li>
+</ul>
