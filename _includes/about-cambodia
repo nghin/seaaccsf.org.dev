@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/cambodia/who-we-are/">តើយើងជានរណា</a><p style="font-weight: normal;">អាគ្នេយ៍ សិល្បៈ & វប្បធម៌ អាស៊ី សម្ព័ន្ធ សាន់ ហ្វ្រាន់ស៊ីស្</p></li>
+      <li><a href="{{ site.projectname }}/cambodia/our-vision/">ចក្ខុវិស័យរបស់យើង</a><p style="font-weight: normal;">ការពារ – លើកកម្ពស់ - អនុវត្</p></li>
+      <li><a href="{{ site.projectname }}/cambodia/mission-statement/">សេចក្តីថ្លែងការណ៍ បេសកកម្</a><p style="font-weight: normal;">ដើម្បីជំរុញភាពមើលឃើញនិងទិន្នន័យសំខាន់នៃវប្បធម៍នៅអាស៊ីគ្នាអាគ្នេយ៍</p></li>
+</ul>

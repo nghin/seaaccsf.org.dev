@@ -12,7 +12,7 @@ header: no
 <div class="row">
 <div class="bible-index medium-4 medium-push-8 columns">
 <h2 style="margin: 0px">About SEAACC-SF</h2>
-        {% include english/about %}
+        {% include about-english %}
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <img width="424" src="{{ site.urlimg }}seaacc-logo.png">
