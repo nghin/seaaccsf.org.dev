@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/myanmar/who-we-are/">မိမိမိတိတို႔ကို႔က ဘယ္သ္သူေူေတြလြလည္း္းဆိုလိုလွ်ွ်င</a><p style="font-weight: normal;">The Southeast Asian Arts & Culture Coalition of San Francisco</p></li>
+      <li><a href="{{ site.projectname }}/myanmar/our-vision/">အမြင်။ မြင်ကွင်း။ မျက်စိ။</a><p style="font-weight: normal;">SEAACC's Vision: Preserve, Promote, and Practice</p></li>
+      <li><a href="{{ site.projectname }}/myanmar/mission-statement/">ရည္မ္မွနွန္း္းခ်က</a><p style="font-weight: normal;">To advance the visibility and vitality of each Southeast Asian culture</p></li>
+</ul>

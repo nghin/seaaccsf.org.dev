@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/thailand/who-we-are/">เราคือใคร</a><p style="font-weight: normal;">The Southeast Asian Arts & Culture Coalition of San Francisco</p></li>
+      <li><a href="{{ site.projectname }}/thailand/our-vision/">วิสัยทัศน์ของเรา</a><p style="font-weight: normal;">SEAACC's Vision: Preserve, Promote, and Practice</p></li>
+      <li><a href="{{ site.projectname }}/thailand/mission-statement/">พันธกิจ</a><p style="font-weight: normal;">To advance the visibility and vitality of each Southeast Asian culture</p></li>
+</ul>
