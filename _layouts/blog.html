@@ -7,7 +7,13 @@ header:
    image_fullwidth: "seaaccsf-home-eng-banner.jpg"
 ---
 <div class="row">
-	<div class="medium-12 t30">
+	<div class="medium-12 columns t30">
 		{% include pagination %}
-	</div><!-- /.medium-7.columns -->
+	</div>
+	<!--
+        <div class="medium-6 columns" t60>
+            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% include list-posts entries='20' offset='1' %}
+        </div>
+	-->
 </div><!-- /.row -->

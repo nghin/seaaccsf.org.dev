@@ -5,6 +5,8 @@ title: "Asian Heritage Street Celebration - 2015"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Explore the museum for free as a part of this annual program held during the Asian Heritage Street Celebration."
 header: no
+image:
+    thumb: SEAACC-Street-Celebration-2015-thumb.jpg
 categories:
     - events
 ---
