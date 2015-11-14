@@ -1,0 +1,5 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/vietnam/who-we-are/">Giới thiệu</a><p style="font-weight: normal;">Hôi Nghệ Thuật & Văn Hóa Đông Nam Á thành phố San Francisco</p></li>
+      <li><a href="{{ site.projectname }}/vietnam/our-vision/">Mục Tiêu</a><p style="font-weight: normal;">Bảo Tồn, Thúc Đẩy, và Thực Hành</p></li>
+      <li><a href="{{ site.projectname }}/vietnam/mission-statement/">Sứ Mạng</a><p style="font-weight: normal;">Nâng cao sự hiện diện và sức sống của mỗi nền văn hóa Đông Nam Á</p></li>
+</ul>
