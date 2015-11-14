@@ -5,6 +5,8 @@ title: "SEAACC Public Forum Summit - 2014"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Join SEAACC as we discuss the cultural growth and development of the Tenderloin community. How will Southeast Asian arts and history be brought into the neighborhood, and what improvements can we expect? What educational programs are you looking for? Come share your story."
 header: no
+image:
+    thumb: SEAACC-Public-Forum-Summit-2014-thumb.jpg
 categories:
     - events
 ---

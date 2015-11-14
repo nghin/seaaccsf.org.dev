@@ -5,6 +5,8 @@ title: "Mid-Autumn Harvest Festival 2014"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "On September 6th, 2014, we invite you to attend the fourth Southeast Asian Arts & Culture Exhibition celebrating the harvest season! The Exhibition helps promote and preserve the arts and culture of the Southeast Asian American communities in San Francisco, and specifically highlights the Indo-Chinese refugee communities which have a history in the Tenderloin."
 header: no
+image:
+   thumb: MAHF_2015_thumb.jpg
 categories:
     - events
 ---
