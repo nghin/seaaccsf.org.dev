@@ -7,6 +7,7 @@ header:
 ---
 
 <img width="424" src="{{ site.urlimg }}seaacc-logo.png">
+
 <p style="line-height: 1.2rem">
 Please contact us via email: contact@seaacc-sf.org<br />
 <!-- Cambodia -->
