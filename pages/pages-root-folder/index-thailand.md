@@ -24,10 +24,3 @@ widget1:
   text: 'พันธมิตรศิลปะและวัฒนธรรมตะวันออกเฉียงใต้ ของซานฟรานซิสโก ถูกก่อตั้งขึ้นในปี2011 โดยกลุ่มต่างชาติเผ่าพันธุ์ต่างๆที่อาศัยอยู่ในSan Francisco Bay Areaพวกเราเห็นการขาดการส่งเสริมและการอนุรักษ์วัฒนธรรมในชุมชนเอเชียตะวันออกเฉียงใต้และรู้ว่าจะต้องมีการ เปลี่ยนแปลง กลุ่มพันธมิตรนี้ได้ถูกตั้งขึ้นเพื่อที่จะช่วยให้ชุมชนในพื้นที่นี้ได้รับรู้เรื่องวัฒนธรรมของชาวเอเชียตะวันออกเฉียงใต้มากขึ้น'
 permalink: /thailand/index.html
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

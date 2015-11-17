@@ -25,10 +25,3 @@ widget1:
   text: 'អាគ្នេយ៍ សិល្បៈ & វប្បធម៌ អាស៊ី សម្ព័ន្ធ សាន់ ហ្វ្រាន់ស៊ីស្កូ ត្រូវបានបង្កើតឡើង នៅឆ្នាំ 2011 ដោយក្រុម ជនជាតិភាគតិច ជាច្រើន ចាប់អារម្មណ៍ នៅទូទាំង ឈូងសមុទ្រ តំបន់ សាន់ ហ្វ្រាន់ស៊ីស្កូ ។ យើងបានឃើញ ការខ្វះខាតនៃ ការផ្សព្វផ្សាយ វប្បធម៌និង ការអភិរក្ស នៅក្នុងសហគមន៍ អាស៊ី អាគ្នេយ៍ មួយហើយ បានដឹងថា មាន ដើម្បីឱ្យមាន ការផ្លាស់ប្តូរ មួយ។ ក្រុមចម្រុះ នេះត្រូវបាន ចាប់ផ្តើម ដើម្បីជួយ ដោះស្រាយ តម្រូវការ នៅក្នុង សហគមន៍ ចម្លក សម្រាប់ ការយល់ដឹង វប្បធម៌ បន្ថែមទៀត។'
 permalink: /cambodia/index.html
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <!-- iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe -->
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

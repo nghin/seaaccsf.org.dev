@@ -24,4 +24,3 @@ widget1:
   text: 'Hiệp Hội Văn Hoá & Nghệ Thuật Đông Nam Á – San Francisco (SEAACC) được thành lập vào năm 2011 bởi các nhóm dân tộc thiểu số trong vùng vịnh San Francisco. Chúng tôi đã thấy văn hóa của cộng đông Đông Nam Á thiếu sự cổ động và bảo tồn, và biết rằng phải có một sự thay đổi. Hiệp hội SEAACC đã được thành lập để đáp ứng một nhu cầu trong cộng đồng khu Tenderloin hầu gia tăng nhận thức văn hóa.'
 permalink: /vietnam/index.html
 ---
-</div>
