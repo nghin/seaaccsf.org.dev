@@ -25,7 +25,7 @@ author: nghin
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 # url: 'http://seaacc-sf.org'
-url: 'https://nghin.github.io/seaaccsf.org'
+url: 'https://seaacc-sf.org'
 baseurl: ''
 # projectname /seaaccsf.org is needed if nghin.github.io is accessed directly
 projectname: '/seaaccsf.org'
@@ -40,7 +40,7 @@ improve_content: https://github.com/nghin/seaaccsf.org/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://nghin.github.io/seaaccsf.org/images/'
+urlimg: 'https://seaacc-sf.org/images/'
 
 
 # Logo size is 600x80 pixels
