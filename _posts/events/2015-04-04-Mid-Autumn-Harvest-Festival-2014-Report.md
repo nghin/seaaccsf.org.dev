@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival Report - 2014"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "On Saturday Sept. 6th, 2014, hundreds of families from all over the Bay Area gathered at the Tenderloin Recreation Center to celebrate the 4th Annual Mid-Autumn Harvest Festival. Hosted by the Southeast Asian Arts & Culture Coalition, this event brings together local organizations from the Cambodian, Laos, Burmese, Thai, and Vietnamese community to partake in dance, music, food sampling, and historical appreciation."

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "10th Annual Hill Physician"
+subheadline: "Past Event&mdash;10th Annual Hill Physician"
 title: "Asian Heritage Street Festival"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Event details: “Celebrate Asian Pacific American Heritage Month at the10th Annual Asian Heritage Street Celebration on Saturday, May 17, 2014 from 11 a.m. to 6 p.m. in front of the Asian Art Museum, leading up to the Little Saigon District in San Francisco. Street fair goers will have the chance to learn how to cook delicious pan Asian dishes at the AHSC cooking demonstration stage located at Ellis and Larkin Streets, by celebrity chefs including Martin Yan."

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Events"
+subheadline: "Past Event"
 title: "Vietnamese Tet Lunar New Year Festival - 2014"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "The Lunar New Year festival is based on the Lunar Calendar that many Eastern countries have followed in the past, where the New Year begins in February. This is different than the modern Western calendar where the New Year begins on January 1st."
