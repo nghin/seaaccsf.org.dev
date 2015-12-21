@@ -4,7 +4,7 @@ subheadline: "Southeast Asian Arts & Culture Coalition"
 title: "Sứ Mạng"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 permalink: /vietnam/mission-statement/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

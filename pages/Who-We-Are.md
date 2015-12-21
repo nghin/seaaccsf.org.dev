@@ -5,7 +5,7 @@ title: "Who We Are"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "The Southeast Asian Arts & Culture Coalition of San Francisco was founded in 2011 by various ethnic interest groups across the San Francisco Bay Area. We saw a lack of cultural promotion and preservation in the Southeast Asian community, and knew that there had to be a change. The coalition was started to help address a need in the Tenderloin community for more cultural awareness."
 permalink: /english/who-we-are/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

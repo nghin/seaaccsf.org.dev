@@ -4,7 +4,7 @@ subheadline: "Southeast Asian Arts & Culture Coalition"
 title: "วิสัยทัศน์ของเรา"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 permalink: /thailand/our-vision/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

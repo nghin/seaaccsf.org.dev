@@ -4,7 +4,7 @@ subheadline: "Southeast Asian Arts & Culture Coalition"
 title: "Mission Statement"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 permalink: /english/mission-statement/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

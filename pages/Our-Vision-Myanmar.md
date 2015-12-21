@@ -5,7 +5,7 @@ title: "အမြင်။ မြင်ကွင်း။ မျက်စိ။"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Promote - Preserve - Practice"
 permalink: /myanmar/our-vision/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

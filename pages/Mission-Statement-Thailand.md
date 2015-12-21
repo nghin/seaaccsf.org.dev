@@ -4,7 +4,7 @@ subheadline: "Southeast Asian Arts & Culture Coalition"
 title: "พันธกิจ"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 permalink: /thailand/mission-statement/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

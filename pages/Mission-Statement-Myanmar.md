@@ -4,7 +4,7 @@ subheadline: "Southeast Asian Arts & Culture Coalition"
 title: "ရည္မ္မွနွန္း္းခ်က"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 permalink: /myanmar/mission-statement/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

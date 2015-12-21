@@ -5,7 +5,7 @@ title: "Mục Tiêu"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Bảo Tôn - Cổ Động - Thực Hành"
 permalink: /vietnam/our-vision/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->

@@ -5,7 +5,7 @@ title: "Our Vision"
 meta_teaser: "Southeast Asian Arts & Culture Coalition"
 teaser: "Promote - Preserve - Practice"
 permalink: /english/our-vision/
-breadcrumb: true
+breadcrumb: false
 header: no
 ---
 <!--more-->
