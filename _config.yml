@@ -28,7 +28,7 @@ author: nghin
 url: 'http://seaacc-sf.org'
 baseurl: ''
 # projectname /seaaccsf.org is needed if nghin.github.io is accessed directly
-projectname: '/seaaccsf.org'
+projectname: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
