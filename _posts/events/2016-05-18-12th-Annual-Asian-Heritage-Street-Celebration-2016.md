@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "12th Annual Asian Heritage Street Celebration - 2016"
 meta_descriptions: "Annual Asian Heritage Street Celebration. Southeast Asian Arts and Cultural Coalition. San Francisco"
 teaser: "Celebrate Asian Pacific American Heritage Month at the 12th Annual Asian Heritage Street Celebration on Saturday, May 21, 2016 from 11 a.m. to 6 p.m. in front of the Asian Art Museum, leading up to the United Nation Plaza in San Francisco."
