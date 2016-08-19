@@ -22,7 +22,7 @@ For more information, please contact:
 - Mr. Sirch Chanthyasack at (415) 680-4027
 - Email: contact@seaacc-sf.org
 
-<img width="100%" src="http://74.220.215.61/~seaaccsf/en/images/2016/MAHF/Poster_web.jpg">
+<img width="100%" src="{{ site.urlimg }}/Poster_MAHF_2016_20x30.jpg">
 
 {% include next-previous-post-in-category %}
 
